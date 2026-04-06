@@ -1,0 +1,5 @@
+numero1 = input('digite um numero: ')
+numero2 = input('digite outro numero: ')
+soma = int(numero1) + int(numero2)
+print('a soma de {} + {} = {}'.format(numero1, numero2, int(numero1) + int(numero2)))
+print('a soma de {} + {} = {}'.format(numero1, numero2, soma))

@@ -29,7 +29,8 @@ print("Hello World")
 # O python e uma linguagem multiplataforma facil intuitivo e pode fazer 
 # basicamente tudo(mas não se especializa em tudo).
 
-#import this
+#Terminal>>>import this
+
 # zen of python 
 # 1. Bonito é melhor que feio.
 # 2. Explícito é melhor que implícito.
