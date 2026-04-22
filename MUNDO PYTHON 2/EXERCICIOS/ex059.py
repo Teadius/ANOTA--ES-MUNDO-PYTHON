@@ -1,9 +1,7 @@
 n1 = int(input('digite o primeiro valor: '))
 n2 = int(input('digite o segundo valor: '))
-
-
 while True:
-    print('''Opções
+    print('''   Opções
     [1]somar
     [2]multiplicar
     [3]maior
