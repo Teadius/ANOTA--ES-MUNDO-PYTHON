@@ -1,11 +1,9 @@
 soma = count = 0
 while True:
-    numero = int(input('digite um valor: '))
-    soma = soma + numero
-    count += 1
+    numero = int(input('Digite um valor(999 para parar): '))
     if numero == 999:
         break
+    soma = soma + numero
+    count += 1
 print('--'*20)
-print('programa encerrado')
-print(f'A soma dos valores e {soma-999}.')
-print(f'Voce digitou {count-1} valores.')
+print(f'A soma dos {count} valores e igual a {soma}')
