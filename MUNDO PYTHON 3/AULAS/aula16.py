@@ -24,7 +24,7 @@ for c in lanche:
 print('')
 
 for cout in range(0, len(lanche)):
-    print(f'eu vou vomer {lanche[cout]} na posicao {cout}')
+    print(f'eu vou comer {lanche[cout]} na posicao {cout}')
 
 print('')
 
@@ -40,6 +40,8 @@ print(c)
 print('numero de termos em c',len(c))
 print(f'numero de 5 escritos {c.count(5)}')
 print(f'o 8 esta na posicao {c.index(8)}')
+print(f'o menor numero {min(c)}')
+print(f'o maior numero {max(c)}')
 
 # del c 
 # tupla deletada 
