@@ -14,5 +14,5 @@ for i, v in enumerate(num):
 print('-='*40)
 sor = num.sort()
 print(f'A lista completa é {num}')
-print(f'A lista de pares é {pares.sort()}')
-print(f'A lista de impares e {impares.sort()}')
+print(f'A lista de pares é {pares}')
+print(f'A lista de impares e {impares}')
