@@ -7,3 +7,5 @@ def escreva(txt):
 
 valor = str(input('digite uma frase:  '))
 escreva(txt=valor)
+escreva(txt='MUNDO PYTHON')
+escreva(txt='CURSO EM VIDEO')
