@@ -10,7 +10,7 @@ def contagem(inicio, fim, passos):
     if passos == 0:
         passos = 1
     if passos < 0:
-        passos = abs(passos)
+        passos *= -1
     print(f'Contagem de {inicio} até {fim} de {passos} em {passos}')
     sleep(0.5)
     if inicio < fim:
