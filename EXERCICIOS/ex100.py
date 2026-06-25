@@ -1,7 +1,8 @@
+from random import choice, randint
 from time import sleep
-from random import choice
 
-def sorteando(*num):
+
+def sorteando(num):
     lista = list()
     print(f'Sorteando {len(num)} valores da lista: ', end='', flush=True)
     for valor in num:
@@ -12,4 +13,8 @@ def sorteando(*num):
     sorte = choice(lista)
     print(f'Sorteando os valores pares de {lista}, temos {sorte}')
 
-sorteando(5, 7, 9, 2, 4)
+
+valores = list()
+for cont in range(0, 5):
+    valores.append(randint(1,10))
+sorteando(valores)
