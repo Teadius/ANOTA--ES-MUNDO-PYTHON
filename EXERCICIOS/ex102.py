@@ -29,3 +29,4 @@ if show == 'S':
 if show == 'N':
     show = False
 print(fatorial(valor, show))
+help(fatorial)
