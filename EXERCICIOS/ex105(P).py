@@ -24,7 +24,11 @@ def notas(*nota):
         situacao = 'Recuperação'
     else:
         situacao = 'Reprovado'
-    return f'A quantidade de notas e de {len(nota)}.\n'f'A maior nota e igual a {notam}\n'f'A menor nota e igual a {mnota}\n'f'A media e igual a {media}\n'f'A situação do aluno e {situacao}'
+    return (f'A quantidade de notas e de {len(nota)}.\n'
+            f'A maior nota e igual a {notam}\n'
+            f'A menor nota e igual a {mnota}\n'
+            f'A media e igual a {media}\n'
+            f'A situação do aluno e {situacao}')
 
 
 #Programa principal
