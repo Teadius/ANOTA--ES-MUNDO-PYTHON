@@ -14,3 +14,16 @@ except urllib.error.URLError:
 else:
     print('\033[32mO site Pudim esta acessivel com sucesso.\033[m')
     webbrowser.open('https://www.pudim.com.br/')
+
+
+# Solução da questão!
+import urllib
+import urllib.request
+
+try:
+    site = urllib.request.urlopen('https://www.pudim.com.br/')
+except urllib.error.URLError:
+    print('O site não esta disponivel no momento.')
+else:
+    print('consegui acessar o site pudim com sucesso!')
+    print(site.read())
