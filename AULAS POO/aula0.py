@@ -41,3 +41,8 @@
 
 # OBS: O curso ira ter bibliografia recomenmdada para estudo.
 # E so abrir o python.org e abrir a opção localizada apra PTBR.
+
+# Livros recomendados:
+# Introdução à Programação com python - Nilo Ney Coutinho Menezes
+# Object-oriented python - Irv Kalb (ingles)
+# Python 3 (ingles)
