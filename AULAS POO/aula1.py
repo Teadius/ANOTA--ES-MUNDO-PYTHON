@@ -98,3 +98,42 @@ lógica matemática e no raciocínio estruturado. Só então seremos capazes de 
 # O OOAD é uma metodologia de desenvolvimento de software que utiliza os conceitos da
 # significa analise e design orientados a objetos. Ele se concentra na identificação de classes, objetos,
 # atributos, métodos e relacionamentos entre eles, a fim de criar um modelo de software.
+
+
+
+#  nota =  4/5  nota 8
+
+# Em que decada aconteceu a crise do softwere no mercado?
+# A. 1950
+# B. 1960                         x
+# C. 1980
+# D. 2000
+
+# Qual das caracteristicas a seguir identifica as priemiras 
+# linguagens lineares?
+# A. Maior modularidade
+# B. Desvio forçados              O correto
+# C. Estrururas de controle
+# D. Instruções de baixo nivel    x
+
+# Quem foi o criador da linguagem smalltalk, uma das primeiras 
+# Linguagens POO?
+# A. Edgar Dijstra]
+# B. Guido Van Rossum
+# C. Alan kay                    x
+# D. Kisten Nygyaard
+
+
+# A linbguagem Simula fo ium superconjunto de que outra 
+# linguargem?
+
+# a.algol                      x
+# b.c
+# c.smalltalk
+# d.python
+
+# Na sigla OOAD, as ultimas duas letras significam...?
+# a.algol/dashboard
+# b.algorithms/digital
+# c.analysis/default
+# d.analysis/desing             x
