@@ -14,6 +14,7 @@ class Gamer:
 
     def add_favoritos(self, game):
         self.jogos.append(game)
+        self.jogos = sorted(self.jogos, key=str.lower)
 
 
     def ficha(self):
