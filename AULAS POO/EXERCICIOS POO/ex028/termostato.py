@@ -13,6 +13,8 @@ class Termostato:
     @temperatura.setter
     def temperatura(self, valor):
         """Setter: valida e limita o valor entre 16°C e 30°C."""
+        if valor % 0.5 != 0:
+            raise ValueError(f"temperatura de {valor} e invalida")
         if valor < 16:
             self.__temperatura = 16
         elif valor > 30:

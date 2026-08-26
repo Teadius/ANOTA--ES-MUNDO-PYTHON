@@ -3,7 +3,7 @@ from rich import print, inspect
 
 def main():
     t = Termostato()
-    t.temperatura = 12
+    t.temperatura = 15
     inspect(t,private=True,methods=True)
 
 
