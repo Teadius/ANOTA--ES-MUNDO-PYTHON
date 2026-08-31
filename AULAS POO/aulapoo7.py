@@ -1,3 +1,6 @@
+# Herança
+
+
 # Herança em Python explicada como nunca fizeram - Curso Python POO: Aula 7
 
 # Essa aula ira trabalahr os 4 pilares da poo, abstração, encapsulamento, herança e polimorfismo.

@@ -1,3 +1,6 @@
+# Abstração
+
+
 # aula sobre o pilar da abstração
 
 # A abstraçãio e a arte de ignorar o irrelevante e se focar estritamente no essencial.
