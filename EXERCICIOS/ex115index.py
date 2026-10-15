@@ -1,7 +1,7 @@
 # ==============================================================================
 # ARQUIVO PRINCIPAL DO SISTEMA (ex115index.py)
 # ==============================================================================
-from ex115 import *
+from AULAS.EXERCICIOS.ex115 import *
 from time import sleep
 
 # Nome do arquivo de texto que armazenará os dados

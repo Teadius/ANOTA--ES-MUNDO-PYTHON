@@ -4,7 +4,7 @@
 # Aproveite e crie tambem uma função leiaFloat() com a mesma 
 # funcionalidade.
 
-from ex113intfloat import *
+from EXERCICIOS.ex113intfloat import *
 
 
 n1 = leiaInt('Digite um número inteiro: ')

@@ -1,4 +1,4 @@
-from ex108 import moeda
+from AULAS.EXERCICIOS.ex108 import moeda
 
 p = float(input('Digite o preço: R$'))
 print(f'A metade de {moeda.moeda(p)} e {moeda.moeda(moeda.metade(p))}')

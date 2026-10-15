@@ -1,4 +1,4 @@
-from ex107 import moeda
+from EXERCICIOS.ex107 import moeda
 
 p = float(input('Digite o preço: R$'))
 print(f'A metade de {p} e {moeda.metade(p)}')
