@@ -15,6 +15,7 @@ def exibir_menu():
 
 
 def main():
+    cadastro_em_massa()
     if criar_banco():
         print("Algum problema aconteceu ao criar o banco")
         raise SystemExit
